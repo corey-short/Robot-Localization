@@ -1,7 +1,7 @@
 
 /**
  * The various message types that can be sent between the robot and the computer.
- * @author Short
+ * @author Corey Short
  * 5/25/14
  */
 public enum MessageType {
